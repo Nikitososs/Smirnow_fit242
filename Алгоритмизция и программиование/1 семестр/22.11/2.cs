@@ -26,7 +26,10 @@ static int dl(char[] arr)
             {cnt -= int.Parse(arr[i].ToString());}
         }
         else
-        {mx = Math.Max(mx, cnt); cnt = 0;}
+        {
+            if (arr[i+1] == '3' || arr[i+1] == '2') {cnt += int.Parse(arr[i+1].ToString());}
+            else {mx = Math.Max(mx, cnt); cnt = 0;}
+        }
     }
     mx = Math.Max(mx, cnt);
     return mx;
