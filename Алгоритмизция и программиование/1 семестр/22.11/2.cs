@@ -1,3 +1,5 @@
+using System.Security.Cryptography;
+
 Console.WriteLine("Введите строки");
 string inp = Convert.ToString(Console.ReadLine());
 
@@ -14,9 +16,9 @@ while (inp.Length>0)
 
 static int dl(char[] arr)
 {
-    int cnt = 0;
     int mx = 0;
-    
+    int cnt = 0;
+
     for (int i=0;i < arr.Length-1; i++)
     {      
         if ((arr[i] == arr[i+1] && arr[i] == '3')||(arr[i] == '3' && arr[i+1] == '2')||(arr[i] == '3' && arr[i+1] == '1'))
@@ -27,10 +29,13 @@ static int dl(char[] arr)
         }
         else
         {
-            if (arr[i+1] == '3' || arr[i+1] == '2') {cnt += int.Parse(arr[i+1].ToString());}
+            if (arr[i] != '3' && (arr[i+1] == '3' || arr[i+1] == '2' || arr[i+1] == '2')) {cnt = Math.Max(cnt, int.Parse(arr[i+1].ToString())); mx = Math.Max(mx, cnt); cnt = 0;}
             else {mx = Math.Max(mx, cnt); cnt = 0;}
         }
     }
+    mx = Math.Max(mx, cnt);
+    return mx;
+}
     mx = Math.Max(mx, cnt);
     return mx;
 }
