@@ -11,12 +11,18 @@ display_arr(arr, m, n);
 
 int[][] linearr = line_arr(arr,m,n);
 
-Console.WriteLine("Пары номеров одинаковых строк:");
-foreach (int[] i in pairs(linearr, m))
-{
-    Console.WriteLine($"{i[0]} {i[1]}");
-}
+var res = pairs(linearr, m);
 
+Console.WriteLine("Пары номеров одинаковых строк:");
+try
+    {foreach (int[] i in res)
+    {
+        Console.WriteLine($"{i[0]} {i[1]}");
+    }}
+catch (Exception e)
+{
+    Console.WriteLine("Нет номеров одинаковых строк");
+}
 
 
 static int[] get_arr(int m, int n)
@@ -73,9 +79,25 @@ static bool compare(int[] a, int[] b)
     bool flag = true;
     foreach (int i in a)
     {
-        if (Array.IndexOf(b, i) == -1){flag = false; break;};
+        if ((Array.IndexOf(b, i) == -1) || (cntt(a,i)!=cntt(b,i)))
+        {
+            flag = false; break;
+        }
     }
     return flag;
+}
+
+static int cntt(int[] a, int s)
+{
+    int cnt = 0;
+    foreach (int i in a)
+    {
+        if (i==s)
+        {
+            cnt+=1;
+        }
+    }
+    return cnt;
 }
 
 static void display_arr(int[] arr, int m, int n)
