@@ -14,15 +14,12 @@ int[][] linearr = line_arr(arr,m,n);
 var res = pairs(linearr, m);
 
 Console.WriteLine("Пары номеров одинаковых строк:");
-try
-    {foreach (int[] i in res)
-    {
-        Console.WriteLine($"{i[0]} {i[1]}");
-    }}
-catch (Exception e)
+foreach (int[] i in res)
 {
-    Console.WriteLine("Нет номеров одинаковых строк");
+    try {Console.WriteLine($"{i[0]} {i[1]}");}
+    catch (Exception e) {continue;}
 }
+
 
 
 static int[] get_arr(int m, int n)
