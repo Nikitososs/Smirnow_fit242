@@ -13,6 +13,15 @@ int[][] linearr = line_arr(arr,m,n);
 
 var res = pairs(linearr, m);
 
+for (int i = 0; i < res.Length; i++)
+{
+    if (isinn(res, res[i]))
+    {
+        int[] o = {0,0};
+        res[i] = o;
+    }
+}
+
 Console.WriteLine("Пары номеров одинаковых строк:");
 foreach (int[] i in res)
 {
@@ -101,6 +110,14 @@ static int cntt(int[] a, int s)
     }
     return cnt;
 }
+
+static bool isinn(int[][] a, int[] b)
+{ 
+    foreach (int[] i in a)
+    {if ((i[0]==b[1])&(i[1]==b[0])){return true;}}
+    return false;
+}   
+
 
 static void display_arr(int[] arr, int m, int n)
 {
