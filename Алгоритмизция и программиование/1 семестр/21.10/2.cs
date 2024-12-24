@@ -16,8 +16,7 @@ var res = pairs(linearr, m);
 Console.WriteLine("Пары номеров одинаковых строк:");
 foreach (int[] i in res)
 {
-    try {Console.WriteLine($"{i[0]} {i[1]}");}
-    catch (Exception e) {continue;}
+    if (i[0]!=i[1]){Console.WriteLine($"{i[0]} {i[1]}");}
 }
 
 
@@ -54,18 +53,24 @@ static int[][] line_arr(int[] arr, int m, int n)
 static int[][] pairs(int[][] arr, int m)
 {
     int[][] exit  = new int[m*m][];
+    int c = 0;
     for (int i = 0; i < arr.Length; i++)
     {
-        for (int j = i; j < arr.Length; j++)
+        for (int j = 0; j < arr.Length; j++)
         {
             if (compare(arr[i], arr[j]) == true)
             {
-                if(i!=j)
-                {
+
                     int[] pair = {i, j};
-                    exit[i] = pair;
-                }
-            };
+                    exit[c] = pair;
+
+            }
+            else
+            {
+                int[] pair = {0, 0};
+                exit[c] = pair;
+            }
+            c += 1;
         }   
     }
     return exit;
