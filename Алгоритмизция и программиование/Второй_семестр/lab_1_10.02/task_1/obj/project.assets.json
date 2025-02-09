@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/lab_1_task_1_10.02/lab_1_task_1_10.02.csproj",
-      "projectName": "lab_1_task_1_10.02",
-      "projectPath": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/lab_1_task_1_10.02/lab_1_task_1_10.02.csproj",
+      "projectUniqueName": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/task_1.csproj",
+      "projectName": "task_1",
+      "projectPath": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/task_1.csproj",
       "packagesPath": "/home/nikitososs/.nuget/packages/",
-      "outputPath": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/lab_1_task_1_10.02/obj/",
+      "outputPath": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nikitososs/.nuget/NuGet/NuGet.Config"
