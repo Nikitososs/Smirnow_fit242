@@ -1,0 +1,15 @@
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/bin/Debug/net9.0/task_1
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/bin/Debug/net9.0/task_1.deps.json
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/bin/Debug/net9.0/task_1.runtimeconfig.json
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/bin/Debug/net9.0/task_1.dll
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/bin/Debug/net9.0/task_1.pdb
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.AssemblyInfoInputs.cache
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.AssemblyInfo.cs
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.csproj.CoreCompileInputs.cache
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.sourcelink.json
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.dll
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/refint/task_1.dll
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.pdb
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/task_1.genruntimeconfig.cache
+/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_1_10.02/task_1/obj/Debug/net9.0/ref/task_1.dll

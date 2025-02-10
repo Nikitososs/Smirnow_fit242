@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Алгоритмизция и программиование", "Алгоритмизция и программиование", "{2DF94AA3-73EA-6003-870B-DC7F5B58433B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Второй_семестр", "Второй_семестр", "{C2E91E51-2CFB-07E0-002A-89B64D26C5C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lab_1_10.02", "lab_1_10.02", "{C07CCEEF-2D11-868A-BE78-E01429AC91B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_1", "Алгоритмизция и программиование\Второй_семестр\lab_1_10.02\task_1\task_1.csproj", "{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2E91E51-2CFB-07E0-002A-89B64D26C5C0} = {2DF94AA3-73EA-6003-870B-DC7F5B58433B}
+		{C07CCEEF-2D11-868A-BE78-E01429AC91B6} = {C2E91E51-2CFB-07E0-002A-89B64D26C5C0}
+		{26A9F0F0-CDE2-F224-2FAD-3CC1EF576FA9} = {C07CCEEF-2D11-868A-BE78-E01429AC91B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F244603-5965-4CA9-A3FF-110AC7D72C39}
+	EndGlobalSection
+EndGlobal
