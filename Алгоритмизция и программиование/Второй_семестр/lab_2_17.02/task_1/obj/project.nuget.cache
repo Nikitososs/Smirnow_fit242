@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bjgLCKOcZzI=",
+  "dgSpecHash": "F0p5Jkyss2Q=",
   "success": true,
-  "projectFilePath": "/home/nikitososs/Smirnow_fit242/Алгоритмизция и программиование/Второй_семестр/lab_2_17.02/task_1/task_1.csproj",
-  "expectedPackageFiles": [
-    "/home/nikitososs/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nsmir\\empty_head\\Smirnow_fit242\\Алгоритмизция и программиование\\Второй_семестр\\lab_2_17.02\\task_1\\task_1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
