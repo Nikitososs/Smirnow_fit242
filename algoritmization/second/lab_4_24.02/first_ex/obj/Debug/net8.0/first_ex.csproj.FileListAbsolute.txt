@@ -1,0 +1,15 @@
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\bin\Debug\net8.0\first_ex.exe
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\bin\Debug\net8.0\first_ex.deps.json
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\bin\Debug\net8.0\first_ex.runtimeconfig.json
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\bin\Debug\net8.0\first_ex.dll
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\bin\Debug\net8.0\first_ex.pdb
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.AssemblyInfoInputs.cache
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.AssemblyInfo.cs
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.csproj.CoreCompileInputs.cache
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.sourcelink.json
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.dll
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\refint\first_ex.dll
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.pdb
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\first_ex.genruntimeconfig.cache
+C:\Users\nsmir\empty_head\Smirnow_fit242\algotitmization\second\lab_4_24.02\first_ex\obj\Debug\net8.0\ref\first_ex.dll
